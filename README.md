@@ -17,3 +17,5 @@
 - Вёрстка по макету в Figma;
 - JavaScript:
   - VanillaJS.
+
+[DEMO](http://calculator.cy39506.tw1.ru/)
