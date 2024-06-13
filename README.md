@@ -1,5 +1,5 @@
 ## Description
-
+[DEMO](http://calculator.cy39506.tw1.ru/)
 *Calculator* - это функциональное приложение, которое умеет выполнять различные арифмитические операции.
 
 ## Functional
@@ -18,4 +18,4 @@
 - JavaScript:
   - VanillaJS.
 
-[DEMO](http://calculator.cy39506.tw1.ru/)
+
